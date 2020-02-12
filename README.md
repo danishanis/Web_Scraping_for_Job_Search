@@ -20,3 +20,13 @@ As a part of the data science project, we often need to rely on SQL/NoSQL databa
 The methodology for this project can be explained in the below schematic *(BSL - BeautifulSoup Library)*
 
 ![alt text](https://github.com/danishanis/Web_Scraping_for_Job_Search/blob/master/Images/image.png)
+
+## Results
+
+Key technical skills required for data science jobs on indeed.ca are:
+
+![alt text](https://github.com/danishanis/Web_Scraping_for_Job_Search/blob/master/Images/Key_DS_Skills.png)
+
+Key Business skills required for data science jobs:
+
+![alt text](https://github.com/danishanis/Web_Scraping_for_Job_Search/blob/master/Images/Business_Skills_indeed.png)
