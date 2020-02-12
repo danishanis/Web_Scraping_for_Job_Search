@@ -1,4 +1,4 @@
-# Web_Scraping_Python_DataScienceSkills
+# Web_Scraping_Python_Project
 *Web Scraping tool in Python to locate and extract Data Science job information from indeed.ca and visualize the most sought after job skills*
 
 ## Background
