@@ -7,8 +7,8 @@ As per [www.infoworld.com](https://www.infoworld.com/article/3228245/the-80-20-d
 
 ## Aim
 
-Our aim was to find a website like [https://www.indeed.ca](https://www.indeed.ca) which allows web scraping and parse HTML pages with \data scientist" job titles to extract position title, employer, location, salary, etc. An important library used for this was the *BeautifulSoup* in Python for pulling data out of HTML and XML files.
+Our aim was to find a website like [https://www.indeed.ca](https://www.indeed.ca) which allows web scraping and parse HTML pages with \data scientist" job titles to extract position title, employer, location, salary, etc. An important library used for this was the *BeautifulSoup* in Python for pulling data out of HTML and XML files. Our objective was to print a table with the scraping results and export those as a csv file. In addition to *position title*, *employer*, *location*, *salary*, etc., also added are columns corresponding to programming skills such as *Excel*, *Python*, *R*, *Java*, *C/C++*, *MATLAB*, *SAS*, *SQL*, *SPSS*, *Tableau*, *Hadoop*, *Spark* and assign 1 to the entry if that programming skill is mentioned in the job description and 0 otherwise.
 
 **What is Web Scraping?**
 
-Web scraping or web data extraction is an automatic software technique for extracting information from web-sites. This can be explained further with the schematic below:
+Web scraping or web data extraction is an automatic software technique for extracting information from web-sites. Web scraping works based on identifying a structure of HTML tags in web-pages. This can be explained further with the schematic below:
