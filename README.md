@@ -12,3 +12,4 @@ Our aim was to find a website like [https://www.indeed.ca](https://www.indeed.ca
 **What is Web Scraping?**
 
 Web scraping or web data extraction is an automatic software technique for extracting information from web-sites. Web scraping works based on identifying a structure of HTML tags in web-pages. This can be explained further with the schematic below:
+![alt text](
